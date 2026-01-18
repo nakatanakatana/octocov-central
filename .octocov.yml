@@ -1,9 +1,10 @@
 central:
   reports:
     datastores:
+      - artifact://nakatanakatana/feed-reader
       - artifact://nakatanakatana/ff
-      - artifact://nakatanakatana/nostr-tools
       - artifact://nakatanakatana/gitlab-tools
+      - artifact://nakatanakatana/nostr-tools
       - artifact://nakatanakatana/obsidian-clippings-feed
   badges:
     datastores:
